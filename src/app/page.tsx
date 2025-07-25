@@ -1,8 +1,8 @@
-import Profile from '@/components/Profile';
-import ProjectList from '@/components/ProjectList';
-import ExperienceTree from '@/components/ExperienceTree';
-import CertificateList from '@/components/CertificateList';
-import ContactForm from '@/components/ContactForm';
+import Profile from "@/components/Profile";
+import ProjectList from "@/components/ProjectList";
+import ExperienceTree from "@/components/ExperienceTree";
+import CertificateList from "@/components/CertificateList";
+import ContactForm from "@/components/ContactForm";
 
 export default function Home() {
   return (

@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ExperienceTree = () => {
-  return (
-    <div>ExperienceTree</div>
-  )
-}
+  return <div>ExperienceTree</div>;
+};
 
-export default ExperienceTree
+export default ExperienceTree;
